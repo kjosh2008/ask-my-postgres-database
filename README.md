@@ -1,5 +1,11 @@
 # Ask My PostgreSQL Database 🤖
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Node](https://img.shields.io/badge/node-18+-green.svg)
+![PostgreSQL](https://img.shields.io/badge/postgresql-13+-blue.svg)
+![Stars](https://img.shields.io/github/stars/kjosh2008/ask-my-postgres-database?style=social)
+
 Natural language interface for PostgreSQL databases using AI. Ask questions in plain English and get SQL queries, natural language answers, and data visualizations.
 
 ![Demo](docs/demo.gif)
